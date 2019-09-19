@@ -4,7 +4,7 @@
 
 # 目录
 
-- [normalizr](#normalizr)
+- [Normalizr](#Normalizr)
 
 
 
