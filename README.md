@@ -8,7 +8,7 @@
 - [目录](#%e7%9b%ae%e5%bd%95)
 - [Normalizr](#normalizr)
 - [reselect](#reselect)
-
+- [Redux](#redux)
 
 # Normalizr
 
@@ -20,3 +20,13 @@
 Redux的选择器库
 
 - [仓库地址](https://github.com/reduxjs/reselect)
+
+# Redux
+
+JavaScript 应用程序状态管理。
+
+- [官网](https://redux.js.org/)
+- [中文文档](https://www.redux.org.cn/)
+- [Redux 快速上手指南](https://github.com/collinxz-coder/blog/issues/1)
+- [在 React 中使用 Redux](https://github.com/collinxz-coder/blog/issues/2)
+- [完全理解 redux（从零实现一个 redux](https://github.com/brickspert/blog/issues/22)
