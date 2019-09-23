@@ -10,6 +10,7 @@
 - [reselect](#reselect)
 - [Redux](#redux)
 - [lottie-react-native](#lottie-react-native)
+- [moment](#moment)
 
 # Normalizr
 
@@ -37,3 +38,10 @@ JavaScript 应用程序状态管理。
 Lottie是Airbnb开源的一个支持 Android、iOS 以及 ReactNative，利用Json文件的方式快速实现动画效果的库。
 
 - [仓库地址](https://github.com/react-native-community/lottie-react-native)
+
+# moment
+使用javascript解析，验证，操作和显示日期。 
+
+- [官网](http://momentjs.com)
+- [GitHub 仓库](http://momentjs.com)
+- [中文官网](http://momentjs.cn/)
