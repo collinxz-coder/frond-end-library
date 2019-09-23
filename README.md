@@ -9,6 +9,7 @@
 - [Normalizr](#normalizr)
 - [reselect](#reselect)
 - [Redux](#redux)
+- [lottie-react-native](#lottie-react-native)
 
 # Normalizr
 
@@ -30,3 +31,9 @@ JavaScript 应用程序状态管理。
 - [Redux 快速上手指南](https://github.com/collinxz-coder/blog/issues/1)
 - [在 React 中使用 Redux](https://github.com/collinxz-coder/blog/issues/2)
 - [完全理解 redux（从零实现一个 redux](https://github.com/brickspert/blog/issues/22)
+  
+# lottie-react-native
+
+Lottie是Airbnb开源的一个支持 Android、iOS 以及 ReactNative，利用Json文件的方式快速实现动画效果的库。
+
+- [仓库地址](https://github.com/react-native-community/lottie-react-native)
