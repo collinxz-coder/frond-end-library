@@ -14,6 +14,7 @@
 - [React Navtive 组件](#react-navtive-%e7%bb%84%e4%bb%b6)
   - [react-native-picker-select](#react-native-picker-select)
   - [react-native-image-crop-picker](#react-native-image-crop-picker)
+  - [react-native-community/async-storage](#react-native-communityasync-storage)
 
 # Normalizr
 
@@ -63,3 +64,9 @@ Lottie是Airbnb开源的一个支持 Android、iOS 以及 ReactNative，利用Js
 IOS / Android 图像选择器，支持相机、视频。支持图片旋转与压缩。
 
 [仓库地址](https://github.com/ivpusic/react-native-image-crop-picker)
+
+## react-native-community/async-storage
+
+React Native 的异步、持久键值对存储系统。
+
+[仓库地址](https://github.com/react-native-community/async-storage)
