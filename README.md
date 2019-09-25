@@ -11,6 +11,9 @@
 - [Redux](#redux)
 - [lottie-react-native](#lottie-react-native)
 - [moment](#moment)
+- [React Navtive 组件](#react-navtive-%e7%bb%84%e4%bb%b6)
+  - [react-native-picker-select](#react-native-picker-select)
+  - [react-native-image-crop-picker](#react-native-image-crop-picker)
 
 # Normalizr
 
@@ -45,3 +48,18 @@ Lottie是Airbnb开源的一个支持 Android、iOS 以及 ReactNative，利用Js
 - [官网](http://momentjs.com)
 - [GitHub 仓库](http://momentjs.com)
 - [中文官网](http://momentjs.cn/)
+
+
+# React Navtive 组件
+
+## react-native-picker-select
+
+适用于 IOS、Android 的下拉选择组件
+
+[仓库地址](https://github.com/lawnstarter/react-native-picker-select)
+
+## react-native-image-crop-picker
+
+IOS / Android 图像选择器，支持相机、视频。支持图片旋转与压缩。
+
+[仓库地址](https://github.com/ivpusic/react-native-image-crop-picker)
