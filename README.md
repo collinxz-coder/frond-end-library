@@ -15,6 +15,7 @@
   - [react-native-picker-select](#react-native-picker-select)
   - [react-native-image-crop-picker](#react-native-image-crop-picker)
   - [react-native-community/async-storage](#react-native-communityasync-storage)
+  - [react-native-router-flux](#react-native-router-flux)
 
 # Normalizr
 
@@ -70,3 +71,9 @@ IOS / Android 图像选择器，支持相机、视频。支持图片旋转与压
 React Native 的异步、持久键值对存储系统。
 
 [仓库地址](https://github.com/react-native-community/async-storage)
+
+## react-native-router-flux
+
+React Native 导航器
+
+[仓库地址](https://github.com/aksonov/react-native-router-flux)
