@@ -5,6 +5,8 @@
 # 目录
 
 
+- [前端工具库](#%e5%89%8d%e7%ab%af%e5%b7%a5%e5%85%b7%e5%ba%93)
+- [目录](#%e7%9b%ae%e5%bd%95)
 - [Normalizr](#normalizr)
 - [reselect](#reselect)
 - [Redux](#redux)
@@ -15,6 +17,7 @@
   - [react-native-image-crop-picker](#react-native-image-crop-picker)
   - [react-native-community/async-storage](#react-native-communityasync-storage)
   - [react-native-router-flux](#react-native-router-flux)
+  - [react-native-swiper](#react-native-swiper)
 - [vue-web-extension](#vue-web-extension)
 
 
@@ -78,6 +81,12 @@ React Native 的异步、持久键值对存储系统。
 React Native 导航器
 
 [仓库地址](https://github.com/aksonov/react-native-router-flux)
+
+## react-native-swiper
+
+简单易用的 React Native 滚动图组件
+
+[仓库地址](https://github.com/leecade/react-native-swiper)
 
 # vue-web-extension
 
