@@ -20,6 +20,8 @@
   - [react-native-swiper](#react-native-swiper)
 - [vue-web-extension](#vue-web-extension)
 - [realm](#realm)
+- [React](#react)
+  - [prop-types](#prop-types)
 
 
 # Normalizr
@@ -106,3 +108,12 @@ Realm并不是对SQLite或者CoreData的简单封装, 是由核心数据引擎C+
 - [中文文档](https://realm.io/cn/docs/)
 - [Realm JavaScript API 手册](https://realm.io/docs/javascript/latest/api/)
 - [Realm Studio](https://realm.io/cn/products/realm-studio) 可视化管理工具
+
+# React
+
+## prop-types
+
+校验 prop 类型。
+
+- [npm](https://www.npmjs.com/package/prop-types)
+- [文档](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html)
