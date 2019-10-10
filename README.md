@@ -19,6 +19,7 @@
   - [react-native-router-flux](#react-native-router-flux)
   - [react-native-swiper](#react-native-swiper)
 - [vue-web-extension](#vue-web-extension)
+- [realm](#realm)
 
 
 # Normalizr
@@ -93,3 +94,15 @@ React Native 导航器
 用 vue 开发 chrome 和 firefox 扩展。
 
 [仓库地址](https://github.com/Kocal/vue-web-extension)
+
+
+# realm
+
+Realm是一个跨平台的移动数据库引擎，目前支持iOS、Android平台，同时支持Objective-C、Swift、Java、React Native、Xamarin等多种编程语言.
+
+Realm并不是对SQLite或者CoreData的简单封装, 是由核心数据引擎C++打造，是拥有独立的数据库存储引擎，可以方便、高效的完成数据库的各种操作
+
+- [官网](https://realm.io/)
+- [中文文档](https://realm.io/cn/docs/)
+- [Realm JavaScript API 手册](https://realm.io/docs/javascript/latest/api/)
+- [Realm Studio](https://realm.io/cn/products/realm-studio) 可视化管理工具
