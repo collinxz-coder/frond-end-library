@@ -22,6 +22,7 @@
 - [realm](#realm)
 - [React](#react)
   - [prop-types](#prop-types)
+- [mocha](#mocha)
 
 
 # Normalizr
@@ -117,3 +118,7 @@ Realm并不是对SQLite或者CoreData的简单封装, 是由核心数据引擎C+
 
 - [npm](https://www.npmjs.com/package/prop-types)
 - [文档](https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html)
+
+# mocha
+
+Mocha是一个功能丰富的JavaScript测试框架，可在Node.js和浏览器中运行，从而使异步测试变得简单而有趣。 Mocha测试按顺序运行，从而可以灵活，准确地报告，同时将未捕获的异常映射到正确的测试用例。托管在[GitHub上](https://github.com/mochajs/mocha)。
