@@ -122,3 +122,7 @@ Realm并不是对SQLite或者CoreData的简单封装, 是由核心数据引擎C+
 # mocha
 
 Mocha是一个功能丰富的JavaScript测试框架，可在Node.js和浏览器中运行，从而使异步测试变得简单而有趣。 Mocha测试按顺序运行，从而可以灵活，准确地报告，同时将未捕获的异常映射到正确的测试用例。托管在[GitHub上](https://github.com/mochajs/mocha)。
+
+- [官网](https://mochajs.org/)
+- [中文文档](https://mochajs.cn/)
+- [快速，完整的 Mocha 测试指南](https://github.com/collinxz-coder/blog/issues/7)
