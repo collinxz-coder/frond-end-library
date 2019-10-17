@@ -18,6 +18,7 @@
   - [react-native-community/async-storage](#react-native-communityasync-storage)
   - [react-native-router-flux](#react-native-router-flux)
   - [react-native-swiper](#react-native-swiper)
+  - [react-native-picker](#react-native-picker)
 - [vue-web-extension](#vue-web-extension)
 - [realm](#realm)
 - [React](#react)
@@ -91,6 +92,18 @@ React Native 导航器
 简单易用的 React Native 滚动图组件
 
 [仓库地址](https://github.com/leecade/react-native-swiper)
+
+## react-native-picker
+
+高性能的 React native 选择器
+
+![](https://github.com/beefe/react-native-picker/raw/master/doc/ui3.jpg)
+
+![](https://github.com/beefe/react-native-picker/raw/master/doc/ui4.jpg)
+
+
+[仓库地址](https://github.com/beefe/react-native-picker)
+
 
 # vue-web-extension
 
